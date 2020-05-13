@@ -1,0 +1,9 @@
+*************
+Configuration
+*************
+
+Theme options
+=============
+
+The following options
+i have new options yes 

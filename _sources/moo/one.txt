@@ -1,0 +1,73 @@
+******
+OTHERS
+******
+
+Command line options
+====================
+
+hello
+
+For listing command-line options:
+
+:Whatever: this is handy to create new field
+
+<p>
+I've seen <b>worse</b>
+</p>
+
+.. code:: text 
+
+  def my_function():
+      "just a test"
+      print 8/2
+
+*italic* **bold** `python <www.python.org` and a ``swell example of verbatim text``
+
+.. code-block:: text 
+
+   wow look
+   here is another one
+
+.. glossary::
+  apical
+    at the top o fthe plant
+
+nobody knows about this extra
+
++------------+------------+---------------------------------+
+| Header 1   | Header 2   | Header 3                        |
++============+============+=================================+
+| body row 1 | column 2   | column 3 wow there it is        |
++------------+------------+---------------------------------+
+| body row 1 | column 2   | **column** 3                    |
++------------+------------+---------------------------------+
+
+.. csv-table:: a title
+   :header: "name", "firstname", "age"
+   :widths: 20, 20, 10
+
+   "Smith", "John", 40
+   "Smith", "John, Junior", 20
+
+
+dhte
+
+.. note::  This is a **note** box.
+
+got it
+
+.. seealso:: This is a simple **seealso** note.
+
+warning now
+
+.. warning:: note the space between the directive and the text
+
+.. sidebar:: Sidebar Title
+    :subtitle: Optional Sidebar Subtitle
+
+    Subsequent indented lines comprise
+    the body of the sidebar, and are
+    interpreted as body elements.
+
+
+This is the end
